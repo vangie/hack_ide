@@ -1,6 +1,5 @@
 # HackIde
 
-**TODO: Add description**
 
 ## Installation
 
